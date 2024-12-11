@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722300930045",
+    "project_id": "fesenko-6ee1d",
+    "storage_bucket": "fesenko-6ee1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722300930045:android:e1916921db28324382bb94",
+        "android_client_info": {
+          "package_name": "com.example.fesenko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB007YKQs8S-7hePMtEgfuYTReSGi7tkiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
